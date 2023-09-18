@@ -236,10 +236,6 @@
                                   <li class="menu-item"><a class="menu-link" href="antrian-online.php">
                                       <div>Mesin Antrian</div>
                                 </a></li>
-
-                                  <li class="menu-item"><a class="menu-link" href="informasi-kamar.php">
-                                      <div>Informasi Kamar</div>
-                                </a></li>
                                   
                                   <li class="menu-item"><a class="menu-link" href="informasi-dokter.php">
                                       <div>Informasi Dokter</div>

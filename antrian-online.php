@@ -263,12 +263,8 @@
                               </a>
                               
                                 <ul class="sub-menu-container">
-                                  <li class="menu-item current"><a class="menu-link" href="antrian-online.php">
-                                      <div>Mesin Antrian</div>
-                                </a></li>
-
-                                  <li class="menu-item"><a class="menu-link" href="informasi-kamar.php">
-                                      <div>Informasi Kamar</div>
+                                  <li class="menu-item"><a class="menu-link" href="antrian-online.php">
+                                      <div>Antrian Online</div>
                                 </a></li>
                                   
                                   <li class="menu-item"><a class="menu-link" href="informasi-dokter.php">
